@@ -4,7 +4,7 @@
         "username": "user1",
         "password": "1211",
         "expirydate": "31-12-2024",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "device456",
