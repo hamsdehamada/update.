@@ -4,7 +4,6 @@
         "username": "user1",
         "password": "1111",
         "expirydate": "14-09-2025",
-        "extra_hours" : 17,
         "Allowoffline": false
     },
     {
