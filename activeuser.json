@@ -4,7 +4,7 @@
         "username": "user1",
         "password": "1111",
         "expirydate": "14-09-2025",
-        "extra_hours" : 17
+        "extra_hours" : 17,
         "Allowoffline": false
         
     },
@@ -13,6 +13,7 @@
         "username": "user2",
         "password": "1111",
         "expirydate": "15-06-2025",
+        "extra_hours" : 17,
         "Allowoffline": false
     }
 ]
