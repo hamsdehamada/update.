@@ -1,20 +1,17 @@
 [
     {
-        
-  "username": "user1",
-  "password": "1111",
-  "device_id": "9a827d4dd847e0e8",
-  "expirydate": "14-09-2025",
-  "extra_hours": 11,
-  "allowoffline": false
+        "device_id": 9a827d4dd847e0e8",
+        "username": "user1",
+        "password": "1111",
+        "expirydate": "14-09-2025",
+        "extra_hours" : 17,
+        "Allowoffline": false
     },
-    
     {
-        "username": "demo",
-  "password": "12345",
-  "device_id": "ABCDEF123456",
-  "expirydate": "15-09-2025",
-  "extra_hours": 12,
-  "allowoffline": false
+        "device_id": "device456",
+        "username": "user2",
+        "password": "pass456",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
     }
 ]
