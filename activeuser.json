@@ -3,8 +3,10 @@
         "device_id": "9a827d4dd847e0e8",
         "username": "user1",
         "password": "1111",
-        "expirydate": "31-12-2024",
+        "expirydate": "14-09-2025",
+        "extra_hours" : 17
         "Allowoffline": false
+        
     },
     {
         "device_id": "device456",
