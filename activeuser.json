@@ -47,5 +47,12 @@
         "password": "1234",
         "expirydate": "20-09-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "f9f85140fe92a923",
+        "username": "trial505",
+        "password": "1234",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
+    },
 ]
