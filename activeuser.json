@@ -55,6 +55,13 @@
         "expirydate": "20-09-2025",
         "Allowoffline": false
     },
+        {
+        "device_id": "isi",
+        "username": "jamesfgps",
+        "password": "0909",
+        "expirydate": "21-09-2025",
+        "Allowoffline": false
+    },
     {
         "device_id": "05d6a2921574324e",
         "username": "mai7",
