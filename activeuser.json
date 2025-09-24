@@ -9,8 +9,8 @@
     {
         "device_id": "f06039a0c5755521",
         "username": "user2",
-        "password": "pass456",
-        "expirydate": "16-09-2025",
+        "password": "2222",
+        "expirydate": "16-09-2029",
         "Allowoffline": false
     },
     {
@@ -67,6 +67,13 @@
         "username": "mai7",
         "password": "0808",
         "expirydate": "27-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "b85cd673273c03be",
+        "username": "trial24b",
+        "password": "0808",
+        "expirydate": "26-09-2025",
         "Allowoffline": false
     }
 ]
