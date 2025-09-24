@@ -75,5 +75,12 @@
         "password": "0808",
         "expirydate": "26-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "746d6dc0ca02a8da",
+        "username": "Trial24c",
+        "password": "1234",
+        "expirydate": "26-09-2025",
+        "Allowoffline": false
     }
 ]
