@@ -89,5 +89,12 @@
         "password": "1111",
         "expirydate": "30-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0a55759ce31028ee",
+        "username": "trial28d",
+        "password": "1111",
+        "expirydate": "30-09-2025",
+        "Allowoffline": false
     }
 ]
