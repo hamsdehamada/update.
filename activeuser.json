@@ -96,5 +96,12 @@
         "password": "1111",
         "expirydate": "30-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7335303f76933835",
+        "username": "sena",
+        "password": "1111",
+        "expirydate": "29-10-2025",
+        "Allowoffline": false
     }
 ]
