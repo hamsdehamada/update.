@@ -140,6 +140,13 @@
         "Allowoffline": false
     },
         {
+        "device_id": "5f4e0e33836c7719",
+        "username": "ari14",
+        "password": "1111",
+        "expirydate": "13-11-2025",
+        "Allowoffline": false
+    },
+        {
         "device_id": "4aaf948adc8b777e",
         "username": "adidu",
         "password": "1111",
