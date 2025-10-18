@@ -182,6 +182,13 @@
         "Allowoffline": false
     },
         {
+        "device_id": "33869f9f1b9bc973",
+        "username": "hirman",
+        "password": "1111",
+        "expirydate": "13-11-2026",
+        "Allowoffline": false
+    },
+        {
         "device_id": "4aaf948adc8b777e",
         "username": "adidu",
         "password": "1111",
