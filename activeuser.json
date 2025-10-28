@@ -236,5 +236,12 @@
         "password": "1111",
         "expirydate": "13-11-2025",
         "Allowoffline": false
+    },
+        {
+        "device_id": "isi",
+        "username": "isi",
+        "password": "1111",
+        "expirydate": "27-11-2025",
+        "Allowoffline": false
     }
 ]
