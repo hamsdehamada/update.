@@ -243,5 +243,12 @@
         "password": "lifetime",
         "expirydate": "27-11-2029",
         "Allowoffline": false
+    },
+        {
+        "device_id": "isi",
+        "username": "roytom",
+        "password": "1111",
+        "expirydate": "01-12-2025",
+        "Allowoffline": false
     }
 ]
