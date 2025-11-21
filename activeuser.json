@@ -63,10 +63,10 @@
         "Allowoffline": false
     },
         {
-        "device_id": "6b1e4ed5fb4f000e",
+        "device_id": "isi",
         "username": "trial102",
-        "password": "x026",
-        "expirydate": "20-11-2025",
+        "password": "1234",
+        "expirydate": "22-11-2025",
         "Allowoffline": false
     },
         {
@@ -77,7 +77,7 @@
         "Allowoffline": false
     },
         {
-        "device_id": "76b54d35a36c2814",
+        "device_id": "51b286dfc895de8f",
         "username": "trial101",
         "password": "1234",
         "expirydate": "22-11-2025",
