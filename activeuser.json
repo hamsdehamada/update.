@@ -14,6 +14,20 @@
         "Allowoffline": false
     },
         {
+        "device_id": "1a0023b406c80444",
+        "username": "trial",
+        "password": "1234",
+        "expirydate": "25-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "b27bdf18f00b0588",
+        "username": "shounen",
+        "password": "1111",
+        "expirydate": "13-11-2025",
+        "Allowoffline": false
+    },
+        {
         "device_id": "f714bd27a4a969a2",
         "username": "salehvip",
         "password": "1111",
