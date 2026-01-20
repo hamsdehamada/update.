@@ -91,10 +91,10 @@
         "Allowoffline": false
     },
     {
-        "device_id": "",
-        "username": "",
-        "password": "",
-        "expirydate": "01-01-2026",
+        "device_id": "02ba0adfcf885844",
+        "username": "dom01",
+        "password": "1111",
+        "expirydate": "01-01-2027",
         "Allowoffline": false
     },
     {
