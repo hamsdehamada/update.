@@ -601,6 +601,13 @@
         "expirydate": "06-12-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "4092d468e9552d76",
+        "username": "sopian",
+        "password": "1111",
+        "expirydate": "20-08-2026",
+        "Allowoffline": false
+    },
         {
         "device_id": "e151f61b1c16845b",
         "username": "slecta",
