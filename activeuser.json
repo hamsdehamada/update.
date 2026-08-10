@@ -615,6 +615,13 @@
         "expirydate": "20-08-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "59ce31b8f84b9d9b",
+        "username": "trynguyenx",
+        "password": "lifetime",
+        "expirydate": "10-08-2029",
+        "Allowoffline": false
+    },
         {
         "device_id": "e151f61b1c16845b",
         "username": "slecta",
